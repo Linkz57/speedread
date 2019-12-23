@@ -6,7 +6,7 @@ This is a minor fork from https://github.com/pasky/speedread
 I just want to add epub-reading powers to it.
 
 
-Original Description
+Mostly-Original Description
 ====================
 
 A simple terminal-based open source Spritz-alike.
@@ -47,3 +47,6 @@ You can connect mutt with speedread by putting a macro like this in your
 Then, just press R when viewing a message.  Unfortunately, it does not
 work with non-ASCII messages (probably due to mutt limitations).
 
+Bigger Font Sizes
+-----------------
+If you use a font too big, a terminal window too small, or zoom in too far, everything falls apart until you go smaller again because the space between all of the elements on screen is apparently hard-coded. I'm not 100% sure what they mean, but apparently you can fix it like this: https://github.com/pasky/speedread/issues/13

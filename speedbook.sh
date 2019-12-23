@@ -8,6 +8,7 @@
 ### GNU grep 3.3
 ### UnZip 6.00 of 20 April 2009, by Debian. Original by Info-ZIP. http://www.info-zip.org/pub/infozip/
 ### GNU coreutils 8.30
+### perl 5.28.1
 ##
 ## Version 0.1
 
